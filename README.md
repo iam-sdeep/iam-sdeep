@@ -19,16 +19,17 @@
 </div>
 
 <hr>
-
-<!-- Blog Posts Section -->
+<!--
+Blog Posts Section
 <h2 align="center">📝 Recent Blog Posts</h2>
 <div align="center">
-  <!-- Dynamic Blog Posts -->
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
-</div>
+   Dynamic Blog Posts 
+     BLOG-POST-LIST:START 
+      [https://sdeep.hashnode.dev/](https://sdeep.hashnode.dev/devops-zero-to-hero-introduction-to-devops)
+     BLOG-POST-LIST:END
+</div> -->
 
-<hr>
+<!-- <hr> -->
 
 <!-- Connect Section -->
 <h2 align="center">🔗 Connect With Me</h2>
