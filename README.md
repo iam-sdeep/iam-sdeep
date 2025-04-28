@@ -34,13 +34,13 @@ Blog Posts Section
 <!-- Connect Section -->
 <h2 align="center">🔗 Connect With Me</h2>
 <div align="center">
- <!-- <a href="https://linkedin.com/in/om-nagare-620b90256" target="_blank"> -->
+ <!-- <a href="https://linkedin.com/in/" target="_blank"> -->
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-<!--  <a href="https://medium.com/@omnagare07" target="_blank"> -->
+<!--  <a href="https://medium.com/" target="_blank"> -->
     <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium" />
   </a>
- <!-- <a href="https://www.youtube.com/c/ucjdhaqmnasc4ylwsiplhn4w" target="_blank"> -->
+ <!-- <a href="" target="_blank"> -->
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
   </a>
 </div>
