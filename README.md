@@ -5,7 +5,7 @@
   <p>Transforming development and operations to ensure seamless delivery and innovation.</p>
   
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=omnagare9975&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iam-sdeep&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <hr>
