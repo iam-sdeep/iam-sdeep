@@ -1,4 +1,5 @@
 <!-- Profile Header -->
+![image](https://github.com/iam-sdeep/iam-sdeep/blob/b37700517fa7413176cacda8939e14c2b364e8e5/github_banner.png)  
 <div align="center">
   <h1>👋 Hi, I'm Sdeep </h1>
   <h3>DevOps Engineer | Cloud Enthusiast | Building Scalable Solutions</h3>
