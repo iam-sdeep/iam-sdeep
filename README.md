@@ -38,7 +38,10 @@ Blog Posts Section
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
 <!--  <a href="https://medium.com/" target="_blank"> -->
-    <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium" />
+<!--    <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium" />
+  </a> -->
+  <!--  <a href="https://medium.com/" target="_blank"> -->
+    <img src="https://img.icons8.com/color/48/hashnode.png" alt="hashnode" />
   </a>
  <!-- <a href="" target="_blank"> -->
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
