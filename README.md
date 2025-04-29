@@ -43,6 +43,9 @@ Blog Posts Section
   <!--  <a href="https://medium.com/" target="_blank"> -->
     <img src="https://img.icons8.com/color/48/hashnode.png" alt="hashnode" />
   </a>
+   <!--  <a href="https://medium.com/" target="_blank"> -->
+    <img src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter" />
+  </a>
  <!-- <a href="" target="_blank"> -->
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
   </a>
@@ -73,6 +76,9 @@ Blog Posts Section
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
+  </a>
+  <a href="https://www.git-scm.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/git.png" alt="git" />
   </a>
 </div>
 
