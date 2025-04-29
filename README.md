@@ -1,7 +1,9 @@
 <!-- Profile Header -->
 ![image](https://github.com/iam-sdeep/iam-sdeep/blob/b37700517fa7413176cacda8939e14c2b364e8e5/github_banner.png)  
 <div align="center">
-  <h1>👋 Hi, I'm Sdeep </h1>
+  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0FF700&center=true&vCenter=true&width=1200&height=60&lines=Hi+%F0%9F%91%8B%2C+Explore+world+of+Cloud+%26+DevOps+;With+Sdeep%2C+Let's+connect!+" alt="Typing SVG" /></a></h1>
+
+ <!-- <h1>👋 Hi, I'm Sdeep </h1> -->
   <h3>DevOps Engineer | Cloud Enthusiast | Building Scalable Solutions</h3>
   <p>Transforming development and operations to ensure seamless delivery and innovation.</p>
   
