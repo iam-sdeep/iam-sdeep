@@ -37,16 +37,16 @@ Blog Posts Section
 <!-- Connect Section -->
 <h2 align="center">🔗 Connect With Me</h2>
 <div align="center">
- <!-- <a href="https://linkedin.com/in/" target="_blank"> -->
+ <a href="https://www.linkedin.com/in/sdeep-gangopadhyay-b73736349/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
 <!--  <a href="https://medium.com/" target="_blank"> -->
 <!--    <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium" />
   </a> -->
-  <!--  <a href="https://medium.com/" target="_blank"> -->
+  <a href="https://sdeep.hashnode.dev/" target="_blank">
     <img src="https://img.icons8.com/color/48/hashnode.png" alt="hashnode" />
   </a>
-   <!--  <a href="https://medium.com/" target="_blank"> -->
+  <a href="https://x.com/sdeep_tw" target="_blank">
     <img src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter" />
   </a>
  <!-- <a href="" target="_blank"> -->
