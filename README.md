@@ -102,7 +102,7 @@ Blog Posts Section
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-sdeep&show_icons=true&locale=en&theme=radical" alt="iam-sdeep" width="420"/>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-sdeep&theme=radical" alt="iam-sdeep " width="420" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-sdeep&theme=radical" alt="iam-sdeep " width="421" />
 </div>
 
 <hr>
