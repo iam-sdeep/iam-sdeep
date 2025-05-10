@@ -86,23 +86,15 @@ Blog Posts Section
 </div>
 
 <hr>
-<!-- GitHub Stats Section -->
-<!-- <h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omnagare9975&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=omnagare9975&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omnagare9975&theme=radical" alt="GitHub Streak" />
-</div> -->
 
- <!-- <hr> -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-sdeep&show_icons=true&locale=en&theme=radical" alt="iam-sdeep" height="358"/> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-sdeep&show_icons=true&locale=en&theme=radical" alt="iam-sdeep" width="420"/> 
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-sdeep&show_icons=true&locale=en&theme=radical" alt="iam-sdeep" width="420"/>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iam-sdeep&theme=tokyonight&hide_border=true" alt="iam-sdeep " width="421" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iam-sdeep&theme=radical" alt="iam-sdeep " width="425" />
   
 </div>
 
