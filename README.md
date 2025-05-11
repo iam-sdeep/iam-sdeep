@@ -90,7 +90,7 @@ Blog Posts Section
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-sdeep&show_icons=true&locale=en&theme=radical" alt="iam-sdeep" width="420"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-sdeep&show_icons=true&locale=en&theme=radical" alt="iam-sdeep" width="420" /> 
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-sdeep&show_icons=true&locale=en&theme=radical" alt="iam-sdeep" width="420"/>
   
