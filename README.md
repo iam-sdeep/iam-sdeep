@@ -90,11 +90,11 @@ Blog Posts Section
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-sdeep&show_icons=true&locale=en&theme=radical" alt="iam-sdeep" width="420" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sdeep&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="iam-sdeep's GitHub Stats" width="455" />
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-sdeep&show_icons=true&locale=en&theme=radical" alt="iam-sdeep" width="420"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-sdeep&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="iam-sdeep's GitHub Stats" width="420"/>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iam-sdeep&theme=radical" alt="iam-sdeep " width="425" />
+  <img align="center" src="https://streak-stats.demolab.com?user=iam-sdeep&theme=radical&hide_border=false" alt="iam-sdeep's GitHub Stats" width="425" />
   
 </div>
 
