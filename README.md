@@ -91,7 +91,7 @@ Blog Posts Section
 
 <!-- <div align="center"> -->
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sdeep&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="iam-sdeep's GitHub Stats" width="420" /> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-sdeep&show_icons=true&locale=en&theme=radical" alt="iam-sdeep" height="358" width="420"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-sdeep&show_icons=true&locale=en&theme=radical" alt="iam-sdeep" height="358" width="400"/>
 
   <img align="center" src="https://streak-stats.demolab.com?user=iam-sdeep&theme=radical&hide_border=false" alt="iam-sdeep's GitHub Stats" width="420" />
   
